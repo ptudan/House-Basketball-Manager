@@ -1,0 +1,22 @@
+	/* Don't know how to store all of these statistics yet but the ones I want are:
+		3pt mid, 3pt wings - determines likelyhood to be passed the ball while there, chances shot goes in
+		2pt 0-5, 2pt 5-10, 2pt 10-15, 2pt 15+ 
+		offball speed, onball speed
+		passing to post, passing to wings - higher means lower chances of interception
+		handles - higher means less chance of being stolen from, higher chance of ankle breaker
+		vertical - affects 2pt 0-5 and rebounding, purely magnitude stat
+		boxing out - higher raises other members rebounding, lower lowers it
+		rebounding - 
+		humor type, humor rating
+		drug/alcohol use -- probably not in all likelihood
+		offball/onball post/wing defense
+		court vision - lowers chance to be stolen, raises 
+		popularity - closer in average the team is the higher chemistry is
+		BBIQ - the higher the more likely they choose the correct shots/ passes
+		jealousy - the higher the lower stats will be when PT is low
+		racism - the higher the lower chemistry will be when mixing races on team
+		selfishness - higher likelyhood to shoot (can be good when players are good)
+
+		
+
+	*/
